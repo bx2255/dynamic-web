@@ -1,0 +1,11 @@
+#important{
+    color:brown;
+    background-color:lightgrey;
+}
+.show{
+    display:block;
+}
+
+.hide{
+    display:none;
+}

@@ -1,0 +1,46 @@
+/*add rules via a selector and properties*/
+/*we can use any html element as the selector*/
+body{
+    background-color: rgb(243, 229, 195);
+    height:100%;/*100px*/
+}
+p{
+    /*color: rgb(26, 152, 10);*/
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+/*we can also use class selectors*/
+.blue-text{
+    /*hex works, rgb works, and color names work*/
+    color: darkred;
+    font-weight: bold;
+}
+.green-text{
+    color: rgb(85, 255, 0);
+    font-style: italic;
+}
+/*id selectors*/
+#s3{
+    background-color: rgb(200, 200, 255);
+    border: 3px solid black;
+    padding: 23px;
+    margin-left: auto;
+}
+#s2{
+    font-size: 200px;
+}
+.parent{
+    height: 400px;
+    background-color: lightseagreen;
+    display: flex;
+    gap: 10px;
+    /*flexbox properties*/
+    justify-content: center;
+    align-items: center;
+
+}
+.child{
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+}
