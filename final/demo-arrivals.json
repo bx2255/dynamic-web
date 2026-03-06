@@ -1,0 +1,21 @@
+[
+  { "route": "A", "stopId": "A02N", "etaMin": 1 },
+  { "route": "C", "stopId": "A12S", "etaMin": 3 },
+  { "route": "E", "stopId": "A34N", "etaMin": 5 },
+  { "route": "1", "stopId": "120N", "etaMin": 2 },
+  { "route": "2", "stopId": "127S", "etaMin": 4 },
+  { "route": "3", "stopId": "132N", "etaMin": 6 },
+  { "route": "4", "stopId": "235N", "etaMin": 3 },
+  { "route": "5", "stopId": "247S", "etaMin": 5 },
+  { "route": "6", "stopId": "621N", "etaMin": 7 },
+  { "route": "N", "stopId": "R14N", "etaMin": 2 },
+  { "route": "Q", "stopId": "R21N", "etaMin": 4 },
+  { "route": "R", "stopId": "R28S", "etaMin": 6 },
+  { "route": "W", "stopId": "R40N", "etaMin": 8 },
+  { "route": "B", "stopId": "D20N", "etaMin": 2 },
+  { "route": "D", "stopId": "D27S", "etaMin": 5 },
+  { "route": "F", "stopId": "F14N", "etaMin": 3 },
+  { "route": "M", "stopId": "M18S", "etaMin": 6 },
+  { "route": "L", "stopId": "L03N", "etaMin": 2 },
+  { "route": "7", "stopId": "726N", "etaMin": 4 }
+]
